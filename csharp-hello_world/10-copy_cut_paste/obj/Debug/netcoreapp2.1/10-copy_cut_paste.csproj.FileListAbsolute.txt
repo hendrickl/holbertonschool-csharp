@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/netcoreapp2.1/10-copy_cut_paste.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/netcoreapp2.1/10-copy_cut_paste.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/netcoreapp2.1/10-copy_cut_paste.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/netcoreapp2.1/10-copy_cut_paste.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/bin/Debug/netcoreapp2.1/10-copy_cut_paste.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/10-copy_cut_paste/obj/Debug/netcoreapp2.1/10-copy_cut_paste.pdb
