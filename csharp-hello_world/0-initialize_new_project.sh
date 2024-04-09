@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin
 mkdir 0-new_project
 cd 0-new_project
 dotnet new console
