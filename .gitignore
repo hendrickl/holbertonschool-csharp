@@ -1,8 +1,7 @@
 # .NET 6+
 # Build results
 /bin/
-/obj/
-/obj/obj/
+**/obj/
 
 # Visual Studio Code
 .vscode/
