@@ -12,13 +12,12 @@ class Program
 
                 if (j == 9 && i == 8)
                 {
-                    Console.Write(j);
+                    Console.WriteLine(j);
                     break;
                 }
 
                 Console.Write(j + ", ");
             }
         }
-        Console.WriteLine();
     }
 }
