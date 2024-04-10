@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.pdb
