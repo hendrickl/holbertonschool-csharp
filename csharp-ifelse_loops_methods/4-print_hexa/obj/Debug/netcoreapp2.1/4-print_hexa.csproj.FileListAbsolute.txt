@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp2.1/4-print_hexa.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp2.1/4-print_hexa.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp2.1/4-print_hexa.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp2.1/4-print_hexa.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/bin/Debug/netcoreapp2.1/4-print_hexa.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-ifelse_loops_methods/4-print_hexa/obj/Debug/netcoreapp2.1/4-print_hexa.pdb
