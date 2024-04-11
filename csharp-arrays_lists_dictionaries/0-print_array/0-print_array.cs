@@ -15,7 +15,7 @@ class Array
         if (size == 0)
         {
             Console.WriteLine("");
-            return newArray;
+            return new int[0];
         }
 
         for (int i = 0; i < size; i++)
