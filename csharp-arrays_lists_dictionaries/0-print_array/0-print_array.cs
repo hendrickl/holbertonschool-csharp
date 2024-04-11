@@ -4,24 +4,26 @@ class Array
 {
     public static int[] CreatePrint(int size)
     {
+
+        if (size < 0)
+        {
+            Console.WriteLine("Size cannot be negative");
+            return null;
+        }
+
         int[] newArray = new int[size];
 
         for (int i = 0; i < size; i++)
         {
+
             if (size == 0)
             {
-                Console.WriteLine("");
+                Console.Write("");
+                break;
             }
-            else if (size < 0)
-            {
-                Console.WriteLine("Size cannot be negative");
-                return null;
-            }
-            else
-            {
-                newArray[i] = i;
-                Console.Write($"{i} ");
-            }
+
+            newArray[i] = i;
+            Console.Write($"{i} ");
         }
         return newArray;
     }
