@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/netcoreapp2.1/0-print_array.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/netcoreapp2.1/0-print_array.pdb
