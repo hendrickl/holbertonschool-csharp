@@ -15,15 +15,19 @@ class Array
 
         for (int i = 0; i < size; i++)
         {
-
             if (size == 0)
             {
-                Console.Write("");
+                Console.WriteLine("");
                 break;
             }
 
             newArray[i] = i;
             Console.Write($"{i} ");
+
+            if (i == size - 1)
+            {
+                Console.WriteLine("");
+            }
         }
         return newArray;
     }
