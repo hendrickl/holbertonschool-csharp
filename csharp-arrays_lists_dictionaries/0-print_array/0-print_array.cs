@@ -27,6 +27,7 @@ class Array
             if (i == size - 1)
             {
                 Console.WriteLine("");
+                break;
             }
         }
         return newArray;
