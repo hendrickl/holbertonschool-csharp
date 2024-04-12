@@ -15,12 +15,8 @@ class Dictionary
                 biggestIntKey = entry.Key;
                 biggestIntValue = entry.Value;
             }
-            else if (entry.Value == biggestIntValue)
-            {
-                biggestIntKey = "None";
-            }
         }
 
-        return biggestIntKey;
+        return biggestIntKey ?? "None";
     }
 }
