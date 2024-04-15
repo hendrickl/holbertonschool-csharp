@@ -23,6 +23,7 @@ class List
             }
         }
 
+        differentSortedElements.Sort();
         return differentSortedElements;
     }
 }
