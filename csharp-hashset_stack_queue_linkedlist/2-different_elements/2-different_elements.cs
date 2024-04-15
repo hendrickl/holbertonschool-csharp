@@ -13,7 +13,7 @@ class List
             {
                 differentSortedElements.Remove(i);
             }
-            else if (list1.Contains(i) || list2.Contains(i))
+            else
             {
                 differentSortedElements.Add(i);
             }
