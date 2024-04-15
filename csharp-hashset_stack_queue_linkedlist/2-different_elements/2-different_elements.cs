@@ -7,13 +7,19 @@ class List
     {
         List<int> differentSortedElements = new List<int>();
 
-        for (int i = 0; i <= 8; i++)
+        foreach (int number in list1)
         {
-            differentSortedElements.Add(i);
-
-            if (list1.Contains(i) && list2.Contains(i))
+            if (!list2.Contains(number))
             {
-                differentSortedElements.Remove(i);
+                differentSortedElements.Add(number);
+            }
+        }
+
+        foreach (int number in list2)
+        {
+            if (!list1.Contains(number))
+            {
+                differentSortedElements.Add(number);
             }
         }
 
