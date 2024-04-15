@@ -5,8 +5,20 @@ class List
 {
     public static List<int> DifferentElements(List<int> list1, List<int> list2)
     {
-        HashSet<int> set = new HashSet<int>(list1);
-        set.SymmetricExceptWith(list2);
-        return new List<int>(set);
+        List<int> differentSortedElements = new List<int>();
+
+        for (int i = 0; i <= 8; i++)
+        {
+            if (list1.Contains(i) && list2.Contains(i))
+            {
+                differentSortedElements.Remove(i);
+            }
+            else if (list1.Contains(i) || list2.Contains(i))
+            {
+                differentSortedElements.Add(i);
+            }
+        }
+
+        return differentSortedElements;
     }
 }
