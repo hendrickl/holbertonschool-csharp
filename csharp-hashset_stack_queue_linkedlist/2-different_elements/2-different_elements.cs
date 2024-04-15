@@ -9,13 +9,11 @@ class List
 
         for (int i = 0; i <= 8; i++)
         {
+            differentSortedElements.Add(i);
+
             if (list1.Contains(i) && list2.Contains(i))
             {
                 differentSortedElements.Remove(i);
-            }
-            else
-            {
-                differentSortedElements.Add(i);
             }
         }
 
