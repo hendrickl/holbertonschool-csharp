@@ -32,11 +32,11 @@ class MyQueue
 
         if (aQueue.Contains(search))
         {
-            Console.WriteLine($"Queue contains {search}: True");
+            Console.WriteLine($"Queue contains \"{search}\": True");
         }
         else
         {
-            Console.WriteLine($"Queue contains {search}: False");
+            Console.WriteLine($"Queue contains \"{search}\": False");
         }
 
         // If aQueue contains the given item search, remove all items up to and including search; otherwise, leave aQueue as is
@@ -48,10 +48,6 @@ class MyQueue
             {
                 aQueue.Dequeue();
             }
-        }
-        else
-        {
-            return aQueue;
         }
 
         return aQueue;
