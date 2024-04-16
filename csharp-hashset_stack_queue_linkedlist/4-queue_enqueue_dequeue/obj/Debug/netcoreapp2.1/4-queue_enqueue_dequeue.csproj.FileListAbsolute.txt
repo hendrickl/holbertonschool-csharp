@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/bin/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/4-queue_enqueue_dequeue/obj/Debug/netcoreapp2.1/4-queue_enqueue_dequeue.pdb
