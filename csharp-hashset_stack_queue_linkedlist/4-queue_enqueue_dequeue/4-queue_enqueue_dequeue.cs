@@ -40,7 +40,6 @@ class MyQueue
         }
 
         // If aQueue contains the given item search, remove all items up to and including search; otherwise, leave aQueue as is
-        // You can use .Dequeue() only once
 
         if (aQueue.Contains(search))
         {
