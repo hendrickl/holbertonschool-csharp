@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/netcoreapp2.1/12-linkedlist_insert.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/netcoreapp2.1/12-linkedlist_insert.pdb
