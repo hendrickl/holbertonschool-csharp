@@ -1,0 +1,11 @@
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.deps.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.dev.json
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csprojAssemblyReference.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csproj.CoreCompileInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfoInputs.cache
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfo.cs
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/Users/hobby/Documents/XR_CAREER/HOLBERTON/ARVR/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
