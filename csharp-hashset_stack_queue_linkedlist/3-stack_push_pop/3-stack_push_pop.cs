@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Co­lle­cti­ons.Ge­neric;
+using System.Collections.Generic;
 
 class MyStack
 {
@@ -11,8 +11,10 @@ class MyStack
         {
             Console.WriteLine("Stack is empty");
         }
-
-        Console.WriteLine($"Top item: {aStack.Peek()}");
+        else
+        {
+            Console.WriteLine($"Top item: {aStack.Peek()}");
+        }
 
         if (aStack.Contains(search))
         {
