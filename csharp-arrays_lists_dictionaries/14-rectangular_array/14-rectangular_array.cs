@@ -11,6 +11,11 @@ class Program
         {
             for (int j = 0; j < 5; j++)
             {
+                if (j == 4)
+                {
+                    Console.Write(array[i, j]);
+                    break;
+                }
                 Console.Write(array[i, j] + " ");
             }
             Console.WriteLine();
