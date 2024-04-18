@@ -11,8 +11,15 @@ class Program
         {
             for (int j = 0; j < my2DArray.GetLength(1); j++)
             {
+                if (i == my2DArray.GetLength(0))
+                {
+                    Console.Write(my2DArray[i, j] + "");
+                    break;
+                }
+
                 Console.Write(my2DArray[i, j] + " ");
             }
+
             Console.WriteLine("");
         }
     }
