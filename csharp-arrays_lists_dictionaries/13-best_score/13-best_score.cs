@@ -17,6 +17,10 @@ class Dictionary
             }
         }
 
-        return biggestIntKey ?? "None";
+        if (biggestIntValue == 0)
+        {
+            return "None";
+        }
+        return biggestIntKey;
     }
 }
