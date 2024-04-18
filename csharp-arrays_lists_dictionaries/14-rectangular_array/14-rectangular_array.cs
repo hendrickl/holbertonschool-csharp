@@ -4,23 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[,] my2DArray = new int[5, 5];
-        my2DArray[2, 2] = 1;
+        int[,] array = new int[5, 5];
+        array[2, 2] = 1;
 
-        for (int i = 0; i < my2DArray.GetLength(0); i++)
+        for (int i = 0; i < 5; i++)
         {
-            for (int j = 0; j < my2DArray.GetLength(1); j++)
+            for (int j = 0; j < 5; j++)
             {
-                if (i == my2DArray.GetLength(0))
-                {
-                    Console.WriteLine(my2DArray[i, j] + "");
-                    break;
-                }
-
-                Console.Write(my2DArray[i, j] + " ");
+                Console.Write(array[i, j] + " ");
             }
-
-            Console.WriteLine("");
+            Console.WriteLine();
         }
     }
 }
