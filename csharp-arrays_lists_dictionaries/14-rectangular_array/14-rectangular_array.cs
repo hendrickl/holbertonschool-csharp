@@ -13,7 +13,7 @@ class Program
             {
                 if (i == my2DArray.GetLength(0))
                 {
-                    Console.Write(my2DArray[i, j] + "");
+                    Console.WriteLine(my2DArray[i, j] + "");
                     break;
                 }
 
