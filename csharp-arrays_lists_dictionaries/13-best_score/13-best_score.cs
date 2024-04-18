@@ -6,7 +6,7 @@ class Dictionary
     public static string BestScore(Dictionary<string, int> myList)
     {
         string biggestIntKey = "";
-        int biggestIntValue = 0;
+        int biggestIntValue = -1;
 
         foreach (KeyValuePair<string, int> entry in myList)
         {
@@ -17,7 +17,7 @@ class Dictionary
             }
         }
 
-        if (biggestIntValue == 0)
+        if (biggestIntValue == -1)
         {
             return "None";
         }
