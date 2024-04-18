@@ -13,6 +13,11 @@ class Program
         {
             for (int j = 0; j < jaggedArray[i].Length; j++)
             {
+                if (j == jaggedArray[i].Length - 1)
+                {
+                    Console.Write(jaggedArray[i][j]);
+                    break;
+                }
                 Console.Write(jaggedArray[i][j] + " ");
             }
             Console.WriteLine();
