@@ -44,10 +44,6 @@ class MyStack
                 aStack.Pop();
             }
         }
-        else
-        {
-            return aStack;
-        }
 
         // Add a new given item newItem to aStack
 
