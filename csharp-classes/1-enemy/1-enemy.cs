@@ -15,10 +15,9 @@ namespace Enemies
         /// <summary>
         /// Initializes a new instance of the <see cref="Zombie"/> class.
         /// </summary>
-        /// <param name="health">The health of the zombie. Default is 0.</param>
-        public Zombie(int health = 0)
+        public Zombie()
         {
-            this.health = health;
+            this.health = 0;
         }
     }
 }
