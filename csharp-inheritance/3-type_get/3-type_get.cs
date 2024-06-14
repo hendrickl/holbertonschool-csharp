@@ -10,8 +10,13 @@ class Obj
     /// <param name="myObj">The object to inspect.</param>
     public static void Print(object myObj)
     {
+        // Get the type of the object
         Type type = myObj.GetType();
+
+        // Get the properties of the object
         PropertyInfo[] properties = type.GetProperties();
+
+        // Get the methods of the object
         MethodInfo[] methods = type.GetMethods();
 
         if (myObj.GetType() == typeof(int))
@@ -24,13 +29,13 @@ class Obj
             Console.WriteLine($"{type.Name} Methods:");
         }
 
-
+        // Print each property name
         foreach (PropertyInfo property in properties)
         {
             Console.WriteLine($"{property.Name}");
         }
 
-
+        // Print each method name
         foreach (MethodInfo method in methods)
         {
             Console.WriteLine($"{method.Name}");
