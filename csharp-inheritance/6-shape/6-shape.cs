@@ -26,7 +26,7 @@ class Rectangle : Shape
     /// <summary>
     /// Gets or sets the width of the rectangle.
     /// </summary>
-    /// <exception cref="ArgumentOutOfRangeException">Thrown when the width is set to a value less than 0.</exception>
+    /// <exception cref="ArgumentException">Thrown when the width is set to a value less than 0.</exception>
     public int Width
     {
         get { return width; }
@@ -41,7 +41,7 @@ class Rectangle : Shape
     /// <summary>
     /// Gets or sets the height of the rectangle.
     /// </summary>
-    /// <exception cref="ArgumentOutOfRangeException">Thrown when the height is set to a value less than 0.</exception>
+    /// <exception cref="ArgumentException">Thrown when the height is set to a value less than 0.</exception>
     public int Height
     {
         get { return height; }
