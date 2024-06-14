@@ -19,21 +19,15 @@ class Obj
         // Get the methods of the object
         MethodInfo[] methods = type.GetMethods();
 
-        if (myObj.GetType() == typeof(int))
-        {
-            Console.WriteLine($"{type.Name} Properties:");
-            Console.WriteLine($"{type.Name} Methods:");
-        }
-        else
-        {
-            Console.WriteLine($"{type.Name} Methods:");
-        }
+        Console.WriteLine($"{type.Name} Properties:");
 
         // Print each property name
         foreach (PropertyInfo property in properties)
         {
             Console.WriteLine($"{property.Name}");
         }
+
+        Console.WriteLine($"{type.Name} Methods:");
 
         // Print each method name
         foreach (MethodInfo method in methods)
