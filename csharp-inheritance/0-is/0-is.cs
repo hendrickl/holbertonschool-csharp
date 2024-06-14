@@ -1,9 +1,7 @@
 ﻿using System;
 
-/// <summary>
-/// Provides utility methods for object type checking.
-/// </summary>
-public class Obj
+// Provides utility methods for object type checking.
+class Obj
 {
     /// <summary>
     /// Determines whether the specified object is of type <see cref="System.Int32"/>.
