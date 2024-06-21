@@ -9,13 +9,13 @@ namespace Tests.Text
         [Test]
         public void TestIsPalindrome()
         {
-            Assert.True(Str.IsPalindrome("racecar"));
+            Assert.True(Str.IsPalindrome("A man, a plan, a canal: Panama."));
         }
 
         [Test]
         public void TestIsNotPalindrome()
         {
-            Assert.False(Str.IsPalindrome("hello"));
+            Assert.False(Str.IsPalindrome("A girl, a plan, a canal: Panama."));
         }
 
         [Test]
