@@ -8,10 +8,33 @@ namespace MyMath.Tests
     public class OperationsTests
     {
         [Test]
-        public void Add_ReturnsSumOfArguments()
+        public void Add_ReturnsSumOfPositiveIntegers()
         {
-            int result = Operations.Add(1, 2);
-            Assert.AreEqual(3, result);
+            int a = 5;
+            int b = 10;
+            int expected = 15;
+            int actual = Operations.Add(a, b);
+            Assert.AreEqual(expected, actual);
+        }
+
+        [Test]
+        public void Add_ReturnsSumOfNegativeIntegers()
+        {
+            int a = -5;
+            int b = -10;
+            int expected = -15;
+            int actual = Operations.Add(a, b);
+            Assert.AreEqual(expected, actual);
+        }
+
+        [Test]
+        public void Add_ReturnsSumOfPositiveAndNegativeIntegers()
+        {
+            int a = 5;
+            int b = -10;
+            int expected = -5;
+            int actual = Operations.Add(a, b);
+            Assert.AreEqual(expected, actual);
         }
     }
 }
